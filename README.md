@@ -1,6 +1,6 @@
 <h1 align="center">  Banco de Dados <img src="images/image_bd.png" width="10%" height="10%" align="right" valign="center"/> </h1>
 
-<p align="center">  Meu aprendizado relacionado a base de dados :</p>
+<p align="center">  Anotações e Scripts de base de dados :</p>
 
 - [Fundamentos em Databases](docs/Fundamentos.md)
 
