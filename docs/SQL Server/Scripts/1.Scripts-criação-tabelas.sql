@@ -8,7 +8,6 @@ CREATE TABLE Alunos
    login_cadastro varchar(15) NOT NULL
 );
 
---DROP TABLE Alunos;
 
 CREATE TABLE Situacao
 (
